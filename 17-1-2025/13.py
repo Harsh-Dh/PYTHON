@@ -27,3 +27,20 @@ print(str.find("z"))
 #index()
 print(str.index("n"))
 # print(str.index("z"))  Throws error
+
+#isalnum()
+str1="WelcomeToConsole123"
+print(str.isalnum())#str=harsh dhiman
+print(str1.isalnum())
+
+#isalpha()
+str2="WelcomeToConsole"
+print(str1.isalpha())
+print(str2.isalpha())
+#islower()
+print(str.islower())
+#isprintable()
+print(str.isprintable())
+str5="harsh\n"
+print(str5.isprintable())#\n
+
